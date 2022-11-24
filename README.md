@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)
+![MasterHead](https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)
 
 <h1 align="center">Hi 👋, I'm Moti</h1>
 <img align="right" alt="" width="400" height="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **flutter, ctf, web-development, pentesting, linux, anything...**
+- 💬 Ask me about **flutter, ctf, web-development, pentesting, linux...**
 
 - 📫 How to reach me **moti.online7@gmail.com**
 

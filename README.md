@@ -1,6 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)
 <h1 align="center">Hi 👋, I'm Moti</h1>
-<h3 align="center">HELLO FRIEND, h3ll0 fr13nd...</h3>
+<h3 align="center">h3ll0 fr13nd...</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
 
